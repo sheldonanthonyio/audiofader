@@ -8,7 +8,9 @@ Audio Fader is a mobile app that allows you to add fade-in and fade-out effects 
 
 App Features: 
 * Fades Audio In And Out
-* Simple Interface
-* Currently only support for .wav .ogg
+* View Wave Form On Screen
+* Play And Stop Audio Preview
+* Simple And Intuitive Interface
 
 *** Please note this app is a beta version only ***
+*** Currently mp3 files have limited support ***
