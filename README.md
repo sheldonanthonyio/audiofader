@@ -15,3 +15,9 @@ App Features:
 *** Please note this app is a beta version only ***
 
 *** Currently mp3 files have limited support ***
+
+<div class="separator" style="clear: both; text-align: center;">
+  <br /><a href="https://bit.ly/3Pd2TNI" style="margin-left: 1em; margin-right: 1em;" target="_blank">
+    <img alt="Download For Android Now..." border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiezG9R98X3y-p46fqumTwAzUGsBJHgd_AANld2eK4UNle_KdVl9JFS3gSeUvTwVeeHFQjzPPY_ZIg_EDNfNdYlgFRhJ2dcdirq-68ecTXwn-XW0Vyy3b-PuVCJU3DEsMATGOJv7sk3LN79Ip8Y42YtYzceD35Kpc8j5liEC7jd5-rG9TVvnUmUqqrBWw/w200-h59/android-download-badge.png" title="Download For Android Now..." />
+  </a>
+</div>
